@@ -1,0 +1,18 @@
+dependencies:
+  '@znck/prop-types': 0.6.0
+  vue: 2.6.6
+packages:
+  /@znck/prop-types/0.6.0:
+    dependencies:
+      vue: 2.6.6
+    dev: false
+    resolution:
+      integrity: sha512-zMuSYCB/9uvzv0gMGRY5ECxpuUPn9md/pjEL704ZiU0RJOM5kD5tmdUxaspCOPgWSiMXvziH6r7GHYcEfdyfIA==
+  /vue/2.6.6:
+    dev: false
+    resolution:
+      integrity: sha512-Y2DdOZD8sxApS+iUlwv1v8U1qN41kq6Kw45lM6nVZKhygeWA49q7VCCXkjXqeDBXgurrKWkYQ9cJeEJwAq0b9Q==
+shrinkwrapVersion: 5
+specifiers:
+  '@znck/prop-types': ^0.6.0
+  vue: ^2.6.6

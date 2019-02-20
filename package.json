@@ -1,0 +1,8 @@
+{
+  "private": true,
+  "license": "MIT",
+  "dependencies": {
+    "@znck/prop-types": "^0.6.0",
+    "vue": "^2.6.6"
+  }
+}
